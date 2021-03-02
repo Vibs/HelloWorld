@@ -11,6 +11,7 @@ public class HomeController {
 
     public String name= "anna";
     public String name1= "anna";
+    public String name2= "anna";
 
 
     @GetMapping("/")
