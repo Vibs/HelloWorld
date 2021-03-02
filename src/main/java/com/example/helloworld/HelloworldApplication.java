@@ -1,6 +1,5 @@
 package com.example.helloworld;
 
-import org.graalvm.compiler.serviceprovider.IsolateUtil;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
